@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceRest_20190140039_YogaParipurna", "ServiceRest_20190140039_YogaParipurna\ServiceRest_20190140039_YogaParipurna.csproj", "{6421E92D-3625-4834-B645-766A40DF9691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6421E92D-3625-4834-B645-766A40DF9691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6421E92D-3625-4834-B645-766A40DF9691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6421E92D-3625-4834-B645-766A40DF9691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6421E92D-3625-4834-B645-766A40DF9691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B2FE0BB-F774-4C34-99DD-DE47C8F3635D}
+	EndGlobalSection
+EndGlobal
